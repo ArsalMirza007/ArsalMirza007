@@ -4,10 +4,6 @@
 <!-- Bio -->
 <p align="center">Experienced AI and Machine Learning Engineer | Innovator | Problem Solver</p>
 
-<!-- Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121928372?s=400&u=62eb134857b60ad1e8a074093ceeedc23d295322&v=4" alt="Profile Image" width="200" height="200">
-</p>
 
 <!-- Skills -->
 <h2 align="center">🚀 Skills 🚀</h2>
