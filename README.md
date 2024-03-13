@@ -52,7 +52,7 @@ Other Accomplishments (LinkedIn)
   <a href="https://twitter.com/Engr_ArSalMiRza">
     <img src="https://cdn-icons-png.flaticon.com/512/23/23931.png" alt="Twitter" title="Twitter" width="35" height="35">
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100004955044560">
+  <a href="https://www.facebook.com/ÃrSål MìRzã">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" title="Facebook" width="35" height="35">
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/923067681419">
