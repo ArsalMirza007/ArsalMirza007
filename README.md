@@ -23,10 +23,10 @@ Experienced AI and Machine Learning Engineer | Innovator | Problem Solver
 
 ## 🎓 Certifications 🎓
 
-Microsoft Azure Data Scientist Associate (DP-100) <br>
-IBM AI Engineering <br>
-IBM Introduction to Machine Learning <br>
-IBM Machine Learning <br>
+Microsoft Azure Data Scientist Associate (DP-100) Professional Certificate <br>
+IBM AI Engineering Professional Certificate <br>
+IBM Introduction to Machine Learning Professional Certificate <br>
+IBM Machine Learning Professional Certificate <br>
 Foundations: Data, Data, Everywhere (Google) <br>
 Machine Learning with Python (IBM) <br>
 Building Deep Learning Models with TensorFlow (IBM) <br>
