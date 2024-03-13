@@ -17,6 +17,7 @@ Experienced AI and Machine Learning Engineer | Innovator | Problem Solver
   <img src="https://miro.medium.com/v2/resize:fit:500/1*v7OGtRkPj8AsuiVykVzfQQ@2x.jpeg" alt="Anaconda" title="Anaconda" width="70" height="70">
   <img src="https://globalaihub.com/wp-content/uploads/2022/03/Google-Colab-Logo-1.png" alt="Google Colab" title="Google Colab" width="70" height="70">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter" width="70" height="70">
+  <img src="https://www.techthatworks.net/wp-content/uploads/2024/01/azure.png" alt="Jupyter" title="MS Azure" width="70" height="70">
 </p>
 
 ## 🎓 Certifications 🎓
