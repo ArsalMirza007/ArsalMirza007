@@ -40,12 +40,24 @@ Other Accomplishments (LinkedIn)
 
 <p align="center">
   <a href="mailto:arslanimran996@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" title="Email" width="50" height="50">
-  </a>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" title="Email" width="35" height="35">
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arslan7681419/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" title="LinkedIn" width="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/ArsalMirza007">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" title="GitHub" width="35" height="35">
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Engr_ArSalMiRza">
+    <img src="https://cdn-icons-png.flaticon.com/512/23/23931.png" alt="Twitter" title="Twitter" width="35" height="35">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100004955044560">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" title="Facebook" width="35" height="35">
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/923067681419">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" title="WhatsApp" width="35" height="35">
   </a>
-  <!-- Add more contact options as needed -->
 </p>
+
 
 ## Let's innovate and create together! 🚀
