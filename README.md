@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Arslan Imran! 👋
 
-Experienced AI and Machine Learning Engineer | Innovator | Problem Solver
+Experienced AI and Machine Learning Engineer | Data Scientist | Innovator | Problem Solver
 
 ## 🚀 Skills 🚀
 
