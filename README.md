@@ -5,6 +5,7 @@ Experienced AI and Machine Learning Engineer | Data Scientist | Innovator | Prob
 ## 🚀 Skills 🚀
 
 <p align="center">
+  <img src="https://nm.education/wp-content/uploads/2021/07/datascience.png" alt="Data Science" title="Data Science" width="70" height="70">&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4616/4616809.png" alt="Artificial Intelligence" title="Artificial Intelligence" width="70" height="70">&nbsp;&nbsp;
   <img src="https://cancerriotlondon.files.wordpress.com/2019/11/machine-learning.png" alt="Machine Learning" title="Machine Learning" width="70" height="70">&nbsp;&nbsp;
   <img src="https://logo.com/image-cdn/images/kts928pd/production/ee9a7a9f7d58a0517210130da4849d05c6d60e83-333x334.png?w=1080&q=72" alt="Deep Learning" title="Deep Learning" width="70" height="70">&nbsp;&nbsp;
