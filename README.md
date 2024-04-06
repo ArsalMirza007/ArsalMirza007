@@ -36,7 +36,7 @@ Introduction to Computer Vision and Image Processing (IBM) <br>
 Natural Language Processing in TensorFlow (DeepLearning.AI) <br>
 Convolutional Neural Networks in TensorFlow (DeepLearning.AI) <br>
 English for Career Development (University of Pennsylvania) <br>
-Other Accomplishments (LinkedIn)
+Other Accomplishments (https://www.linkedin.com/in/arslan7681419/details/certifications/)
 
 ## 📫 Connect with Me 📫
 
