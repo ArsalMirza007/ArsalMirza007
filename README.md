@@ -16,7 +16,7 @@ Experienced AI and Machine Learning Engineer | Data Scientist | Innovator | Prob
   <img src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png" alt="PyTorch" title="PyTorch" width="70" height="70">&nbsp;&nbsp;
   <img src="https://github.com/ArsalMirza007/ArsalMirza007/assets/121928372/1a36aaf3-1fa2-404c-b7b4-cb5fed119fc4.png" alt="Visual Studio Code" title="Visual Studio Code" width="70" height="70">&nbsp;&nbsp;
   <img src="https://miro.medium.com/v2/resize:fit:500/1*v7OGtRkPj8AsuiVykVzfQQ@2x.jpeg" alt="Anaconda" title="Anaconda" width="70" height="70">&nbsp;&nbsp;
-  <img src="https://globalaihub.com/wp-content/uploads/2022/03/Google-Colab-Logo-1.png" alt="Google Colab" title="Google Colab" width="70" height="70">&nbsp;&nbsp;
+  <img src="https://github.com/ArsalMirza007/ArsalMirza007/assets/121928372/a42bad79-1686-4950-ab9e-1339d5d6ebe8" alt="Google Colab" title="Google Colab" width="70" height="70">&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png" alt="Jupyter" title="Jupyter" width="70" height="70">&nbsp;&nbsp;
   <img src="https://www.techthatworks.net/wp-content/uploads/2024/01/azure.png" alt="MS Azure" title="MS Azure" width="70" height="70">
 </p>
