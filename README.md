@@ -37,6 +37,7 @@ Natural Language Processing in TensorFlow (DeepLearning.AI) <br>
 Convolutional Neural Networks in TensorFlow (DeepLearning.AI) <br>
 English for Career Development (University of Pennsylvania) <br>
 Other Accomplishments (https://www.linkedin.com/in/arslan7681419/details/certifications/)
+Credly Profile ()
 
 ## 📫 Connect with Me 📫
 
